@@ -7,7 +7,7 @@ var mongoose = require("mongoose");
 var passport = require("passport");
 var LocalStrategy = require("passport-local");
 var passportLocalMongoose = require("passport-local-mongoose");
-var User = require("./models/user");
+var User = require("./Models/user");
 
 const app = express();
 app.use(express.static("public"));
