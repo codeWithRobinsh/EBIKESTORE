@@ -92,7 +92,9 @@ a.filled-button:hover {
 .contact-heading {
 	background-image: url(../images/get-in-touch-2.jpg);
 }
-
+.Cart-heading{
+  background-image: url(../images/cart-bg.jpg);
+}
 .page-heading {
 	padding: 210px 0px 130px 0px;
 	text-align: center;
